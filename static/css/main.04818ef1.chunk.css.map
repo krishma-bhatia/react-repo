@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Header.css","webpack://src/ContactCard.css"],"names":[],"mappings":"AAAA,cACI,wBACJ,CCFA,IACI,cACJ","file":"main.04818ef1.chunk.css","sourcesContent":[".header-style{\r\n    background-color: lightblue;\r\n}","img{\r\n    max-width:8rem;\r\n}"]}
